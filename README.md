@@ -29,4 +29,4 @@ Wisconsin Breast Cancer Dataset from Scikit-learn
 Built a predictive model for cancer diagnosis with performance evaluation.
 
 ## Author
-Your Name
+Mirjuma
